@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="236"/>
+  <unicode hex="02BC"/>
+  <note>
+	uni02BC
+  </note>
+  <outline>
+    <contour>
+      <point x="89" y="470" type="line" smooth="yes"/>
+      <point x="103" y="470"/>
+      <point x="110" y="474"/>
+      <point x="114" y="484" type="curve" smooth="yes"/>
+      <point x="186" y="653" type="line" smooth="yes"/>
+      <point x="193" y="669"/>
+      <point x="189" y="677"/>
+      <point x="171" y="677" type="curve" smooth="yes"/>
+      <point x="133" y="677" type="line" smooth="yes"/>
+      <point x="115" y="677"/>
+      <point x="109" y="674"/>
+      <point x="104" y="658" type="curve" smooth="yes"/>
+      <point x="49" y="490" type="line" smooth="yes"/>
+      <point x="45" y="478"/>
+      <point x="47" y="470"/>
+      <point x="61" y="470" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiEk-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiEk-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-94" y="841" type="line" smooth="yes"/>
+      <point x="-56" y="841"/>
+      <point x="-37" y="851"/>
+      <point x="-37" y="896" type="curve" smooth="yes"/>
+      <point x="-37" y="973" type="line" smooth="yes"/>
+      <point x="-37" y="1018"/>
+      <point x="-56" y="1028"/>
+      <point x="-94" y="1028" type="curve" smooth="yes"/>
+      <point x="-160" y="1028" type="line" smooth="yes"/>
+      <point x="-198" y="1028"/>
+      <point x="-217" y="1018"/>
+      <point x="-217" y="973" type="curve" smooth="yes"/>
+      <point x="-217" y="896" type="line" smooth="yes"/>
+      <point x="-217" y="851"/>
+      <point x="-198" y="841"/>
+      <point x="-160" y="841" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-35" y="829" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-35" y="569" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

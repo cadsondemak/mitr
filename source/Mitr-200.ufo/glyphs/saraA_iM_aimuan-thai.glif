@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraAiMaimuan-thai" format="1">
+  <advance width="360"/>
+  <unicode hex="0E43"/>
+  <note>
+	saraAiMaimuan-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="278" y="0" type="line" smooth="yes"/>
+      <point x="291" y="0"/>
+      <point x="297" y="6"/>
+      <point x="297" y="19" type="curve" smooth="yes"/>
+      <point x="297" y="32" type="line" smooth="yes"/>
+      <point x="297" y="48"/>
+      <point x="290" y="52"/>
+      <point x="277" y="52" type="curve" smooth="yes"/>
+      <point x="227" y="52" type="line" smooth="yes"/>
+      <point x="206" y="52"/>
+      <point x="202" y="57"/>
+      <point x="202" y="78" type="curve" smooth="yes"/>
+      <point x="202" y="378" type="line" smooth="yes"/>
+      <point x="202" y="453"/>
+      <point x="335" y="519"/>
+      <point x="335" y="620" type="curve" smooth="yes"/>
+      <point x="335" y="693"/>
+      <point x="282" y="750"/>
+      <point x="174" y="750" type="curve" smooth="yes"/>
+      <point x="88" y="750"/>
+      <point x="5" y="699"/>
+      <point x="5" y="612" type="curve" smooth="yes"/>
+      <point x="5" y="603"/>
+      <point x="7" y="601"/>
+      <point x="13" y="601" type="curve" smooth="yes"/>
+      <point x="48" y="601" type="line" smooth="yes"/>
+      <point x="55" y="601"/>
+      <point x="57" y="603"/>
+      <point x="57" y="612" type="curve" smooth="yes"/>
+      <point x="57" y="668"/>
+      <point x="109" y="701"/>
+      <point x="174" y="701" type="curve" smooth="yes"/>
+      <point x="243" y="701"/>
+      <point x="281" y="676"/>
+      <point x="281" y="621" type="curve" smooth="yes"/>
+      <point x="281" y="529"/>
+      <point x="148" y="470"/>
+      <point x="148" y="380" type="curve" smooth="yes"/>
+      <point x="148" y="69" type="line" smooth="yes"/>
+      <point x="148" y="21"/>
+      <point x="157" y="0"/>
+      <point x="213" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

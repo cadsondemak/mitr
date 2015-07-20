@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lakkhangyao-thai" format="1">
+  <advance width="435"/>
+  <unicode hex="0E45"/>
+  <note>
+	lakkhangyao-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="340" y="-156" type="line" smooth="yes"/>
+      <point x="363" y="-156"/>
+      <point x="375" y="-145"/>
+      <point x="375" y="-123" type="curve" smooth="yes"/>
+      <point x="375" y="352" type="line" smooth="yes"/>
+      <point x="375" y="480"/>
+      <point x="309" y="540"/>
+      <point x="174" y="540" type="curve" smooth="yes"/>
+      <point x="107" y="540"/>
+      <point x="58" y="527"/>
+      <point x="24" y="509" type="curve" smooth="yes"/>
+      <point x="11" y="502"/>
+      <point x="6" y="497"/>
+      <point x="12" y="485" type="curve"/>
+      <point x="36" y="431" type="line" smooth="yes"/>
+      <point x="41" y="419"/>
+      <point x="47" y="417"/>
+      <point x="61" y="424" type="curve" smooth="yes"/>
+      <point x="85" y="436"/>
+      <point x="124" y="445"/>
+      <point x="158" y="445" type="curve" smooth="yes"/>
+      <point x="227" y="445"/>
+      <point x="247" y="416"/>
+      <point x="247" y="348" type="curve" smooth="yes"/>
+      <point x="247" y="-123" type="line" smooth="yes"/>
+      <point x="247" y="-145"/>
+      <point x="258" y="-156"/>
+      <point x="281" y="-156" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

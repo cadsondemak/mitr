@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="204"/>
+  <unicode hex="0131"/>
+  <note>
+	dotlessi
+  </note>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line" smooth="yes"/>
+      <point x="122" y="0"/>
+      <point x="129" y="8"/>
+      <point x="129" y="23" type="curve" smooth="yes"/>
+      <point x="129" y="457" type="line" smooth="yes"/>
+      <point x="129" y="472"/>
+      <point x="122" y="480"/>
+      <point x="106" y="480" type="curve" smooth="yes"/>
+      <point x="98" y="480" type="line" smooth="yes"/>
+      <point x="82" y="480"/>
+      <point x="75" y="472"/>
+      <point x="75" y="457" type="curve" smooth="yes"/>
+      <point x="75" y="23" type="line" smooth="yes"/>
+      <point x="75" y="8"/>
+      <point x="82" y="0"/>
+      <point x="98" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
