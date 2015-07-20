@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraUu-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E39"/>
+  <note>
+	saraUu-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-105" y="-288"/>
+      <point x="-52" y="-257"/>
+      <point x="-52" y="-185" type="curve" smooth="yes"/>
+      <point x="-52" y="-73" type="line" smooth="yes"/>
+      <point x="-52" y="-58"/>
+      <point x="-59" y="-50"/>
+      <point x="-75" y="-50" type="curve" smooth="yes"/>
+      <point x="-147" y="-50" type="line" smooth="yes"/>
+      <point x="-163" y="-50"/>
+      <point x="-170" y="-58"/>
+      <point x="-170" y="-73" type="curve" smooth="yes"/>
+      <point x="-170" y="-161" type="line" smooth="yes"/>
+      <point x="-170" y="-178"/>
+      <point x="-183" y="-187"/>
+      <point x="-208" y="-187" type="curve" smooth="yes"/>
+      <point x="-233" y="-187"/>
+      <point x="-246" y="-178"/>
+      <point x="-246" y="-161" type="curve" smooth="yes"/>
+      <point x="-246" y="-93" type="line" smooth="yes"/>
+      <point x="-246" y="-64"/>
+      <point x="-257" y="-50"/>
+      <point x="-290" y="-50" type="curve" smooth="yes"/>
+      <point x="-391" y="-50" type="line" smooth="yes"/>
+      <point x="-416" y="-50"/>
+      <point x="-422" y="-60"/>
+      <point x="-422" y="-82" type="curve" smooth="yes"/>
+      <point x="-422" y="-127" type="line" smooth="yes"/>
+      <point x="-422" y="-150"/>
+      <point x="-415" y="-159"/>
+      <point x="-391" y="-159" type="curve" smooth="yes"/>
+      <point x="-354" y="-159" type="line"/>
+      <point x="-354" y="-191" type="line" smooth="yes"/>
+      <point x="-354" y="-259"/>
+      <point x="-304" y="-288"/>
+      <point x="-208" y="-288" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-51" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-51" y="-278" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

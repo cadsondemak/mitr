@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiChattawa-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiChattawa-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-93" y="857" type="line" smooth="yes"/>
+      <point x="-67" y="857"/>
+      <point x="-55" y="864"/>
+      <point x="-55" y="894" type="curve" smooth="yes"/>
+      <point x="-55" y="904" type="line"/>
+      <point x="-17" y="904" type="line" smooth="yes"/>
+      <point x="1" y="904"/>
+      <point x="6" y="910"/>
+      <point x="6" y="926" type="curve" smooth="yes"/>
+      <point x="6" y="966" type="line" smooth="yes"/>
+      <point x="6" y="982"/>
+      <point x="1" y="988"/>
+      <point x="-17" y="988" type="curve" smooth="yes"/>
+      <point x="-55" y="988" type="line"/>
+      <point x="-55" y="996" type="line" smooth="yes"/>
+      <point x="-55" y="1026"/>
+      <point x="-67" y="1033"/>
+      <point x="-93" y="1033" type="curve" smooth="yes"/>
+      <point x="-132" y="1033" type="line" smooth="yes"/>
+      <point x="-159" y="1033"/>
+      <point x="-171" y="1026"/>
+      <point x="-171" y="996" type="curve" smooth="yes"/>
+      <point x="-171" y="988" type="line"/>
+      <point x="-204" y="988" type="line" smooth="yes"/>
+      <point x="-222" y="988"/>
+      <point x="-227" y="982"/>
+      <point x="-227" y="966" type="curve" smooth="yes"/>
+      <point x="-227" y="926" type="line" smooth="yes"/>
+      <point x="-227" y="910"/>
+      <point x="-222" y="904"/>
+      <point x="-204" y="904" type="curve" smooth="yes"/>
+      <point x="-171" y="904" type="line"/>
+      <point x="-171" y="894" type="line" smooth="yes"/>
+      <point x="-171" y="864"/>
+      <point x="-159" y="857"/>
+      <point x="-132" y="857" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-52" y="843" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-52" y="613" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

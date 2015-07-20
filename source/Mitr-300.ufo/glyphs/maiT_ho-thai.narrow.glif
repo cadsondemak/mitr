@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiTho-thai.narrow" format="1">
+  <advance width="0"/>
+  <note>
+	maiTho-thai.narrow
+  </note>
+  <outline>
+    <contour>
+      <point x="-250" y="627" type="line" smooth="yes"/>
+      <point x="-229" y="627"/>
+      <point x="-225" y="631"/>
+      <point x="-225" y="652" type="curve" smooth="yes"/>
+      <point x="-225" y="675" type="line" smooth="yes"/>
+      <point x="-225" y="693"/>
+      <point x="-228" y="699"/>
+      <point x="-246" y="699" type="curve" smooth="yes"/>
+      <point x="-280" y="699"/>
+      <point x="-352" y="695"/>
+      <point x="-404" y="692" type="curve"/>
+      <point x="-404" y="757" type="line" smooth="yes"/>
+      <point x="-404" y="786"/>
+      <point x="-408" y="792"/>
+      <point x="-434" y="792" type="curve" smooth="yes"/>
+      <point x="-514" y="792" type="line" smooth="yes"/>
+      <point x="-535" y="792"/>
+      <point x="-543" y="783"/>
+      <point x="-543" y="763" type="curve" smooth="yes"/>
+      <point x="-543" y="751" type="line" smooth="yes"/>
+      <point x="-543" y="730"/>
+      <point x="-535" y="723"/>
+      <point x="-514" y="723" type="curve" smooth="yes"/>
+      <point x="-475" y="723" type="line"/>
+      <point x="-475" y="669" type="line" smooth="yes"/>
+      <point x="-475" y="638"/>
+      <point x="-467" y="627"/>
+      <point x="-431" y="627" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-286" y="589" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-286" y="417" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="588"/>
+  <unicode hex="25CA"/>
+  <note>
+	lozenge
+  </note>
+  <outline>
+    <contour>
+      <point x="298" y="0" type="line" smooth="yes"/>
+      <point x="310" y="0"/>
+      <point x="315" y="6"/>
+      <point x="323" y="17" type="curve" smooth="yes"/>
+      <point x="554" y="327" type="line" smooth="yes"/>
+      <point x="561" y="336"/>
+      <point x="565" y="342"/>
+      <point x="565" y="351" type="curve" smooth="yes"/>
+      <point x="565" y="360"/>
+      <point x="561" y="366"/>
+      <point x="554" y="375" type="curve" smooth="yes"/>
+      <point x="323" y="686" type="line"/>
+      <point x="314" y="697"/>
+      <point x="310" y="703"/>
+      <point x="298" y="703" type="curve" smooth="yes"/>
+      <point x="290" y="703" type="line" smooth="yes"/>
+      <point x="278" y="703"/>
+      <point x="273" y="697"/>
+      <point x="265" y="686" type="curve" smooth="yes"/>
+      <point x="34" y="375" type="line" smooth="yes"/>
+      <point x="27" y="366"/>
+      <point x="23" y="360"/>
+      <point x="23" y="351" type="curve" smooth="yes"/>
+      <point x="23" y="342"/>
+      <point x="27" y="336"/>
+      <point x="34" y="327" type="curve" smooth="yes"/>
+      <point x="265" y="17" type="line" smooth="yes"/>
+      <point x="273" y="6"/>
+      <point x="278" y="0"/>
+      <point x="290" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="182" y="351" type="line"/>
+      <point x="294" y="496" type="line"/>
+      <point x="405" y="351" type="line"/>
+      <point x="294" y="207" type="line"/>
+    </contour>
+  </outline>
+</glyph>

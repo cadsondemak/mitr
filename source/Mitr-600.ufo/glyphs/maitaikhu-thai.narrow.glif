@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maitaikhu-thai.narrow" format="1">
+  <advance width="0"/>
+  <note>
+	maitaikhu-thai.narrow
+  </note>
+  <outline>
+    <contour>
+      <point x="-463" y="576"/>
+      <point x="-434" y="588"/>
+      <point x="-410" y="612" type="curve"/>
+      <point x="-392" y="589"/>
+      <point x="-363" y="576"/>
+      <point x="-323" y="576" type="curve" smooth="yes"/>
+      <point x="-297" y="576" type="line" smooth="yes"/>
+      <point x="-280" y="576"/>
+      <point x="-276" y="581"/>
+      <point x="-276" y="594" type="curve" smooth="yes"/>
+      <point x="-276" y="662" type="line" smooth="yes"/>
+      <point x="-276" y="678"/>
+      <point x="-280" y="682"/>
+      <point x="-297" y="682" type="curve" smooth="yes"/>
+      <point x="-333" y="682" type="line" smooth="yes"/>
+      <point x="-350" y="682"/>
+      <point x="-359" y="684"/>
+      <point x="-359" y="703" type="curve" smooth="yes"/>
+      <point x="-359" y="713"/>
+      <point x="-363" y="718"/>
+      <point x="-374" y="718" type="curve" smooth="yes"/>
+      <point x="-444" y="718" type="line" smooth="yes"/>
+      <point x="-455" y="718"/>
+      <point x="-460" y="713"/>
+      <point x="-460" y="703" type="curve" smooth="yes"/>
+      <point x="-460" y="683"/>
+      <point x="-468" y="675"/>
+      <point x="-490" y="675" type="curve" smooth="yes"/>
+      <point x="-514" y="675"/>
+      <point x="-521" y="686"/>
+      <point x="-521" y="706" type="curve" smooth="yes"/>
+      <point x="-521" y="726"/>
+      <point x="-508" y="737"/>
+      <point x="-480" y="737" type="curve" smooth="yes"/>
+      <point x="-287" y="737" type="line" smooth="yes"/>
+      <point x="-270" y="737"/>
+      <point x="-266" y="739"/>
+      <point x="-266" y="755" type="curve" smooth="yes"/>
+      <point x="-266" y="820" type="line" smooth="yes"/>
+      <point x="-266" y="836"/>
+      <point x="-270" y="840"/>
+      <point x="-287" y="840" type="curve" smooth="yes"/>
+      <point x="-495" y="840" type="line" smooth="yes"/>
+      <point x="-580" y="840"/>
+      <point x="-647" y="799"/>
+      <point x="-647" y="705" type="curve" smooth="yes"/>
+      <point x="-647" y="616"/>
+      <point x="-596" y="576"/>
+      <point x="-512" y="576" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-274" y="633" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-275" y="389" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

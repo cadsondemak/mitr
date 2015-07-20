@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="308"/>
+  <unicode hex="005D"/>
+  <note>
+	bracketright
+  </note>
+  <outline>
+    <contour>
+      <point x="233" y="-70" type="line" smooth="yes"/>
+      <point x="259" y="-70"/>
+      <point x="269" y="-58"/>
+      <point x="269" y="-34" type="curve" smooth="yes"/>
+      <point x="269" y="713" type="line" smooth="yes"/>
+      <point x="269" y="737"/>
+      <point x="259" y="750"/>
+      <point x="233" y="750" type="curve" smooth="yes"/>
+      <point x="64" y="750" type="line" smooth="yes"/>
+      <point x="37" y="750"/>
+      <point x="29" y="740"/>
+      <point x="29" y="715" type="curve" smooth="yes"/>
+      <point x="29" y="688" type="line" smooth="yes"/>
+      <point x="29" y="663"/>
+      <point x="37" y="652"/>
+      <point x="64" y="652" type="curve" smooth="yes"/>
+      <point x="141" y="652" type="line"/>
+      <point x="141" y="27" type="line"/>
+      <point x="64" y="27" type="line" smooth="yes"/>
+      <point x="37" y="27"/>
+      <point x="29" y="16"/>
+      <point x="29" y="-9" type="curve" smooth="yes"/>
+      <point x="29" y="-36" type="line" smooth="yes"/>
+      <point x="29" y="-60"/>
+      <point x="37" y="-70"/>
+      <point x="64" y="-70" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

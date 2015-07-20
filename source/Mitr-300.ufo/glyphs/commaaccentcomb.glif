@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="229"/>
+  <unicode hex="0326"/>
+  <note>
+	commaaccent
+  </note>
+  <outline>
+    <contour>
+      <point x="89" y="-224" type="line" smooth="yes"/>
+      <point x="103" y="-224"/>
+      <point x="110" y="-220"/>
+      <point x="114" y="-210" type="curve" smooth="yes"/>
+      <point x="178" y="-60" type="line" smooth="yes"/>
+      <point x="185" y="-44"/>
+      <point x="182" y="-36"/>
+      <point x="163" y="-36" type="curve" smooth="yes"/>
+      <point x="125" y="-36" type="line" smooth="yes"/>
+      <point x="107" y="-36"/>
+      <point x="101" y="-40"/>
+      <point x="96" y="-56" type="curve" smooth="yes"/>
+      <point x="49" y="-204" type="line" smooth="yes"/>
+      <point x="45" y="-216"/>
+      <point x="47" y="-224"/>
+      <point x="61" y="-224" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleftinferior" format="1">
+  <advance width="266"/>
+  <unicode hex="208D"/>
+  <note>
+	uni208D
+  </note>
+  <outline>
+    <contour>
+      <point x="207" y="-228"/>
+      <point x="237" y="-227"/>
+      <point x="241" y="-185" type="curve" smooth="yes"/>
+      <point x="244" y="-155"/>
+      <point x="242" y="-148"/>
+      <point x="223" y="-132" type="curve" smooth="yes"/>
+      <point x="172" y="-91"/>
+      <point x="150" y="-33"/>
+      <point x="150" y="54" type="curve" smooth="yes"/>
+      <point x="150" y="142"/>
+      <point x="174" y="197"/>
+      <point x="223" y="240" type="curve" smooth="yes"/>
+      <point x="243" y="257"/>
+      <point x="243" y="264"/>
+      <point x="241" y="293" type="curve" smooth="yes"/>
+      <point x="237" y="333"/>
+      <point x="207" y="336"/>
+      <point x="166" y="321" type="curve" smooth="yes"/>
+      <point x="80" y="289"/>
+      <point x="23" y="181"/>
+      <point x="23" y="54" type="curve" smooth="yes"/>
+      <point x="23" y="-72"/>
+      <point x="81" y="-178"/>
+      <point x="166" y="-212" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

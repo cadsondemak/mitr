@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="117"/>
+  <unicode hex="02C9"/>
+  <note>
+	uni02C9
+  </note>
+  <outline>
+    <contour>
+      <point x="194" y="571" type="line" smooth="yes"/>
+      <point x="233" y="571"/>
+      <point x="242" y="587"/>
+      <point x="242" y="621" type="curve" smooth="yes"/>
+      <point x="242" y="667" type="line" smooth="yes"/>
+      <point x="242" y="701"/>
+      <point x="233" y="717"/>
+      <point x="194" y="717" type="curve" smooth="yes"/>
+      <point x="-76" y="717" type="line" smooth="yes"/>
+      <point x="-115" y="717"/>
+      <point x="-124" y="701"/>
+      <point x="-124" y="667" type="curve" smooth="yes"/>
+      <point x="-124" y="621" type="line" smooth="yes"/>
+      <point x="-124" y="587"/>
+      <point x="-115" y="571"/>
+      <point x="-76" y="571" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
