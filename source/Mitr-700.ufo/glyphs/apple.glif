@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apple" format="1">
+  <advance width="520"/>
+  <unicode hex="F8FF"/>
+  <note>
+	uniF8FF
+  </note>
+  <outline>
+    <contour>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="714" type="line"/>
+      <point x="54" y="714" type="line"/>
+      <point x="54" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="663" type="line"/>
+      <point x="414" y="663" type="line"/>
+      <point x="414" y="51" type="line"/>
+      <point x="105" y="51" type="line"/>
+    </contour>
+  </outline>
+</glyph>

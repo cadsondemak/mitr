@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraIi-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E35"/>
+  <note>
+	saraIi-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-97" y="586" type="line" smooth="yes"/>
+      <point x="-53" y="586"/>
+      <point x="-43" y="603"/>
+      <point x="-43" y="641" type="curve" smooth="yes"/>
+      <point x="-43" y="765" type="line" smooth="yes"/>
+      <point x="-43" y="803"/>
+      <point x="-59" y="812"/>
+      <point x="-91" y="812" type="curve" smooth="yes"/>
+      <point x="-153" y="812" type="line" smooth="yes"/>
+      <point x="-185" y="812"/>
+      <point x="-201" y="803"/>
+      <point x="-201" y="765" type="curve" smooth="yes"/>
+      <point x="-201" y="724" type="line"/>
+      <point x="-458" y="724" type="line" smooth="yes"/>
+      <point x="-498" y="724"/>
+      <point x="-506" y="715"/>
+      <point x="-506" y="674" type="curve" smooth="yes"/>
+      <point x="-506" y="636" type="line" smooth="yes"/>
+      <point x="-506" y="595"/>
+      <point x="-498" y="586"/>
+      <point x="-458" y="586" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-43" y="586" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-43" y="390" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thanthakhat-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E4C"/>
+  <note>
+	thanthakhat-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-247" y="579" type="line" smooth="yes"/>
+      <point x="-209" y="579"/>
+      <point x="-190" y="589"/>
+      <point x="-190" y="634" type="curve" smooth="yes"/>
+      <point x="-190" y="661" type="line"/>
+      <point x="-144" y="652"/>
+      <point x="-76" y="641"/>
+      <point x="-32" y="641" type="curve" smooth="yes"/>
+      <point x="13" y="641"/>
+      <point x="23" y="660"/>
+      <point x="23" y="698" type="curve" smooth="yes"/>
+      <point x="23" y="739" type="line" smooth="yes"/>
+      <point x="23" y="777"/>
+      <point x="13" y="796"/>
+      <point x="-32" y="796" type="curve" smooth="yes"/>
+      <point x="-289" y="796" type="line" smooth="yes"/>
+      <point x="-354" y="796"/>
+      <point x="-374" y="767"/>
+      <point x="-374" y="709" type="curve" smooth="yes"/>
+      <point x="-374" y="634" type="line" smooth="yes"/>
+      <point x="-374" y="589"/>
+      <point x="-355" y="579"/>
+      <point x="-317" y="579" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-95" y="614" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-35" y="340" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
