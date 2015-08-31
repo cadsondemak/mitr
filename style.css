@@ -1,0 +1,757 @@
+@font-face {
+    font-family: Mitr-ExtraLight;
+    src: url('fonts/Mitr-ExtraLight.ttf') format('truetype'),
+         url('fonts/Mitr-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-family: Mitr-Light;
+    src: url('fonts/Mitr-Light.ttf') format('truetype'),
+         url('fonts/Mitr-Light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-Light.woff') format('woff');
+    font-weight: 300;
+    font-family: Mitr-Regular;
+    src: url('fonts/Mitr-Regular.ttf') format('truetype'),
+         url('fonts/Mitr-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-Regular.woff') format('woff');
+    font-weight: 400;
+    font-family: Mitr-Medium;
+    src: url('fonts/Mitr-Medium.ttf') format('truetype'),
+         url('fonts/Mitr-Medium.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-Medium.woff') format('woff');
+    font-weight: 500;
+    font-family: Mitr-SemiBold;
+    src: url('fonts/Mitr-SemiBold.ttf') format('truetype'),
+         url('fonts/Mitr-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-family: Mitr-Bold;
+    src: url('fonts/Mitr-Bold.ttf') format('truetype'),
+         url('fonts/Mitr-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Mitr-Bold.woff') format('woff');
+    font-weight: 700;
+}
+
+#block-1 {
+  color: #FFF;
+  background-color: #4A27B7;
+  height: 720px;
+}
+
+#block-1-header {
+  font-family: Mitr-ExtraLight;
+  font-size: 25pt;
+  font-weight: 200;
+  line-height: 200%;
+  text-align: center;
+  padding-top: 250px;
+}
+
+#name {
+  font-family: Mitr-Medium;
+  font-size: 90pt;
+  font-weight: 500;
+}
+
+#block-2 {
+  color: #4A27B7;
+  background-color: #FFF;
+  font-family: Mitr-Regular;
+  font-size: 50pt;
+  line-height: 120%;
+  font-weight: 400;
+  text-align: left;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#block-3 {
+  height: 720px;
+  background: url("img/block03.png") no-repeat center;
+  color: #FFF;
+  background-color: #4A27B7;
+}
+
+#block-3-text {
+  font-family: Mitr-Light;
+  font-size: 15pt;
+  font-weight: 300;
+  line-height: 140%;
+  text-align: right;
+  padding-top: 320px;
+}
+
+#block-4 {
+  height: 720px;
+  background: url("img/block04.png") no-repeat center;
+  color: #4A27B7;
+  background-color: #333333;
+}
+
+#block-4-text {
+  font-family: Mitr-ExtraLight;
+  font-size: 24pt;
+  font-weight: 200;
+  line-height: 120%;
+  text-align: left;
+  padding-top: 440px;
+}
+
+#block-5 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+#block-5-Title {
+  font-family: Mitr-Regular;
+  font-size: 16pt;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-5-text1 {
+  font-family: Mitr-ExtraLight;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 200;
+  text-align: left;
+  padding-top: 50px;
+}
+
+#block-5-text1_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text2 {
+  font-family: Mitr-Light;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 55px;
+}
+
+#block-5-text2_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text3 {
+  font-family: Mitr-Regular;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 400;
+  text-align: left;
+  padding-top: 60px;
+}
+
+#block-5-text3_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text4 {
+  font-family: Mitr-Medium;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 500;
+  text-align: left;
+  padding-top: 65px;
+}
+
+#block-5-text4_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text5 {
+  font-family: Mitr-SemiBold;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 600;
+  text-align: left;
+  padding-top: 70px;
+}
+
+#block-5-text5_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text6 {
+  font-family: Mitr-Bold;
+  font-size: 110pt;
+  line-height: 100%;
+  font-weight: 700;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-text6_2 {
+  font-family: Mitr-Light;
+  font-size: 12pt;
+  line-height: 100%;
+  font-weight: 300;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-6 {
+  height: 720px;
+  background: url("img/block06.png") no-repeat center;
+  color: #333333;
+  background-color: #4A27B7;
+}
+
+#block-7 {
+  background: url("img/block07.png") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #333333;
+}
+
+#block-7-text {
+  font-family: Mitr-Light;
+  font-size: 20pt;
+  font-weight: 300;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 140px;
+}
+
+#block-8 {
+  background: url("img/block08.png") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #333333;
+}
+
+#block-8-text {
+  font-family: Mitr-Regular;
+  font-size: 14pt;
+  font-weight: 400;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 450px;
+}
+
+#block-9 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+#block-9-Title {
+  font-family: Mitr-Light;
+  font-size: 10pt;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-9-Char {
+  font-family: Mitr-ExtraLight;
+  font-size: 22pt;
+  font-weight: 200;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Num {
+  font-family: Mitr-ExtraLight;
+  font-size: 22pt;
+  font-weight: 200;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Vowel {
+  font-family: Mitr-ExtraLight;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 200;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Sp-Char {
+  font-family: Mitr-ExtraLight;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 200;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Symbol {
+  font-family: Mitr-ExtraLight;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 200;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Ac-Char {
+  font-family: Mitr-ExtraLight;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 200;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Text1 {
+  font-family: Mitr-ExtraLight;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 200;
+  text-align: left;
+}
+
+#block-9-Text2 {
+  font-family: Mitr-ExtraLight;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 200;
+  text-align: left;
+}
+
+#block-10 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#block-10-Char {
+  font-family: Mitr-Light;
+  font-size: 22pt;
+  font-weight: 300;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Num {
+  font-family: Mitr-Light;
+  font-size: 22pt;
+  font-weight: 300;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Vowel {
+  font-family: Mitr-Light;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 300;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Sp-Char {
+  font-family: Mitr-Light;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 300;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Symbol {
+  font-family: Mitr-Light;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 300;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Ac-Char {
+  font-family: Mitr-Light;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 300;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Text1 {
+  font-family: Mitr-Light;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 300;
+  text-align: left;
+}
+
+#block-10-Text2 {
+  font-family: Mitr-Light;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 300;
+  text-align: left;
+}
+
+#block-11 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#block-11-Char {
+  font-family: Mitr-Regular;
+  font-size: 22pt;
+  font-weight: 400;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Num {
+  font-family: Mitr-Regular;
+  font-size: 22pt;
+  font-weight: 400;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Vowel {
+  font-family: Mitr-Regular;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 400;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Sp-Char {
+  font-family: Mitr-Regular;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 400;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Symbol {
+  font-family: Mitr-Regular;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 400;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Ac-Char {
+  font-family: Mitr-Regular;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 400;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Text1 {
+  font-family: Mitr-Regular;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 400;
+  text-align: left;
+}
+
+#block-11-Text2 {
+  font-family: Mitr-Regular;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 400;
+  text-align: left;
+}
+
+#block-12 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#block-12-Char {
+  font-family: Mitr-Medium;
+  font-size: 22pt;
+  font-weight: 500;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Num {
+  font-family: Mitr-Medium;
+  font-size: 22pt;
+  font-weight: 500;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Vowel {
+  font-family: Mitr-Medium;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Sp-Char {
+  font-family: Mitr-Medium;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Symbol {
+  font-family: Mitr-Medium;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Ac-Char {
+  font-family: Mitr-Medium;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Text1 {
+  font-family: Mitr-Medium;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 500;
+  text-align: left;
+}
+
+#block-12-Text2 {
+  font-family: Mitr-Medium;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 500;
+  text-align: left;
+}
+
+#block-13 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#block-13-Char {
+  font-family: Mitr-SemiBold;
+  font-size: 22pt;
+  font-weight: 600;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Num {
+  font-family: Mitr-SemiBold;
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Vowel {
+  font-family: Mitr-SemiBold;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Sp-Char {
+  font-family: Mitr-SemiBold;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Symbol {
+  font-family: Mitr-SemiBold;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Ac-Char {
+  font-family: Mitr-SemiBold;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 600;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Text1 {
+  font-family: Mitr-SemiBold;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 600;
+  text-align: left;
+}
+
+#block-13-Text2 {
+  font-family: Mitr-SemiBold;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 600;
+  text-align: left;
+}
+
+#block-14 {
+  color: #4A27B7;
+  background-color: #FFF;
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+
+#block-14-Char {
+  font-family: Mitr-Bold;
+  font-size: 22pt;
+  font-weight: 700;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Num {
+  font-family: Mitr-Bold;
+  font-size: 22pt;
+  font-weight: 700;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Vowel {
+  font-family: Mitr-Bold;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Sp-Char {
+  font-family: Mitr-Bold;
+  line-height: 150%;
+  font-size: 22pt;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Symbol {
+  font-family: Mitr-Bold;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Ac-Char {
+  font-family: Mitr-Bold;
+  line-height: 130%;
+  font-size: 22pt;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Text1 {
+  font-family: Mitr-Bold;
+  line-height: 125%;
+  font-size: 10pt;
+  font-weight: 700;
+  text-align: left;
+}
+
+#block-14-Text2 {
+  font-family: Mitr-Bold;
+  line-height: 125%;
+  font-size: 20pt;
+  font-weight: 700;
+  text-align: left;
+}
+
+#Line1 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #4A27B7;
+}
+
+#Line2 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #4A27B7;
+}
