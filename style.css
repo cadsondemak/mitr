@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'MitrLight';
+    font-family: 'Mitr-Light';
     src: url('./fonts/Mitr-Light.eot');
     src: url('./fonts/Mitr-Light.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Mitr-Light.woff2') format('woff2'),
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-    font-family: 'MitrRegular';
+    font-family: 'Mitr-Regular';
     src: url('./fonts/Mitr-Regular.eot');
     src: url('./fonts/Mitr-Regular.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Mitr-Regular.woff2') format('woff2'),
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-    font-family: 'MitrMedium';
+    font-family: 'Mitr-Medium';
     src: url('./fonts/Mitr-Medium.eot');
     src: url('./fonts/Mitr-Medium.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Mitr-Medium.woff2') format('woff2'),
@@ -35,7 +35,7 @@
 }
 
 @font-face {
-    font-family: 'MitrSemiBold';
+    font-family: 'Mitr-SemiBold';
     src: url('./fonts/Mitr-Semibold.eot');
     src: url('./fonts/Mitr-Semibold.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Mitr-Semibold.woff2') format('woff2'),
@@ -44,7 +44,7 @@
 }
 
 @font-face {
-    font-family: 'MitrBold';
+    font-family: 'Mitr-Bold';
     src: url('./fonts/Mitr-Bold.eot');
     src: url('./fonts/Mitr-Bold.eot?#iefix') format('embedded-opentype'),
          url('./fonts/Mitr-Bold.woff2') format('woff2'),
