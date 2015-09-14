@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Mitr-SemiBold';
-    src: url('./fonts/Mitr-Semibold.eot');
-    src: url('./fonts/Mitr-Semibold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Mitr-Semibold.woff2') format('woff2'),
-         url('./fonts/Mitr-Semibold.woff') format('woff'),
-         url('./fonts/Mitr-Semibold.ttf') format('truetype');
+    src: url('./fonts/Mitr-SemiBold.eot');
+    src: url('./fonts/Mitr-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Mitr-SemiBold.woff2') format('woff2'),
+         url('./fonts/Mitr-SemiBold.woff') format('woff'),
+         url('./fonts/Mitr-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
