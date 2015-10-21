@@ -1,4 +1,4 @@
-#Mitr Fonts
+#Mitr Font
 
 Mitr is a Sans Latin & Loopless Thai typeface that combines senses of Organic and Humanist Sans Serif with rounded terminal. It has a wide structure and airy negative space but also preserve legibility and readability. Mitr is a novel and friendly typeface that suitable for casual usage.
 
