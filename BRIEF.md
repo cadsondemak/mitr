@@ -1,0 +1,3 @@
+#Mitr Font
+
+The objective of this project is to create an informal Sans Latin & Loopless Thai typeface. Mitr was designed in order to achieve a rounded structure as a whole in the character's counter, it was quite a challenge especially for the heaviest weights where there is less space available to accommodate a round ending. This style makes Mitr not only a font with soft corner but, a real rounded terminal across all the alphabets as well. The family consists of 6 weights, ranging from ExtraLight to Bold. For further development, this typeface can be extended the family to italic, slant, narrow and extended version, or matched with other non-latin script.
